@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <ImageView
+        android:id="@+id/dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_user_1"
+        android:paddingLeft="20dp"
+        android:paddingTop="15dp"
+        />
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAME"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:layout_marginLeft="20dp"
+        android:drawablePadding="20dp"/>
+
+</LinearLayout>
+    <TextView
+        android:id="@+id/recentMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="this is the recent message"
+        android:textColor="@color/light_grey"
+        android:textSize="16sp"
+        android:maxLines="1"
+        android:paddingLeft="102dp"
+        android:paddingTop="45dp"
+        />
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="time"
+        android:textColor="@color/light_light_grey"
+        android:textSize="13sp"
+        android:maxLines="1"
+        android:layout_alignParentRight="true"
+        android:paddingRight="25dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="20dp"
+        />
+
+</RelativeLayout>

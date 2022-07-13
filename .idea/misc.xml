@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable-night/border.xml" value="0.2" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable-night/chat_bubble_received.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable-night/pop_dp_bg.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable-v24/send_png_foreground.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/border.xml" value="0.2703125" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/chat_bubble.xml" value="0.264" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/chat_bubble_received.xml" value="0.2" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_1.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_10.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_11.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_12.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_2.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_3.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_4.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_5.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_6.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_7.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_8.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/ic_user_9.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/pop_dp_bg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/send_button.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/send_png_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/drawable/user1.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-night/activity_chat.xml" value="0.264" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-night/activity_log_in.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-night/activity_sign_up.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-night/received.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-night/user_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout-notnight/activity_chat.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/acitivity_chat.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/activity_log_in.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/activity_main.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/dp_window.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/received.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/sent.xml" value="0.264" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/layout/user_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/mipmap-anydpi-v26/send_png.xml" value="0.2703125" />
+        <entry key="..\:/Users/Richa/AndroidStudioProjects/chatApp/app/src/main/res/mipmap-anydpi-v26/send_png_round.xml" value="0.11018518518518519" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    android:isScrollContainer="false"
+    tools:context=".ChatActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chatRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/linearLayout"
+        android:fitsSystemWindows="true"
+        android:overScrollMode="ifContentScrolls"
+        android:paddingBottom="10dp"
+        android:scrollbars="vertical"
+        app:reverseLayout="true" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/dark_grey"
+        android:orientation="horizontal"
+        android:paddingTop="7dp">
+
+        <EditText
+            android:id="@+id/messageBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_weight="90"
+            android:backgroundTint="@color/black"
+            android:background="@drawable/border"
+            android:hint="Type your message here"
+            android:textColor="@color/white"
+            android:inputType="textMultiLine|textCapSentences"
+            android:maxLines="10000"
+            android:paddingLeft="10dp"
+            android:paddingTop="12dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="3dp"
+            android:paddingBottom="12dp"
+            android:textColorHint="@color/white"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:id="@+id/sendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/send_button" />
+
+    </LinearLayout>
+</RelativeLayout>
